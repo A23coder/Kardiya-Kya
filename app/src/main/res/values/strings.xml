@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To_do_app</string>
+    <string name="add_data">Add data</string>
+    <string name="today">Today</string>
+    <string name="_14_sept">14 Sept</string>
+    <string name="_6_task">6 tasks</string>
+    <string name="add_new">Add New</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="kardiya_kya">Kardiya Kya!!</string>
+</resources>
